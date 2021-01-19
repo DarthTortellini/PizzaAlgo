@@ -3,3 +3,6 @@
 3. Pick out toppings
  4. added a fourth step
  5. and a fifth step
+ 6. now I am adding a sixth step
+    6a. This step has two parts
+    6b. This is the second part
